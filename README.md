@@ -1,1 +1,1 @@
-Invetory management system
+This is the invetory project
